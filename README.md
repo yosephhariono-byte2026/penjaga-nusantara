@@ -53,3 +53,15 @@ Main langsung: https://claude.ai/artifact/FfmCu9djMGHDGuwCz7vDq4
 - Gerak tandu: tetikus, jari, atau panah kiri/kanan. Lepas bola: klik, ketuk, atau Spasi. Jeda: P. Suara: M
 - Tiga nyawa. Bola yang lolos mengurangi nyawa, batu yang lolos hanya pecah.
 - Batu emas menjatuhkan bantuan: L (tandu lebar), P (bola pelan), N (nyawa)
+
+### Lintas Nusa (`lintas-nusa/`)
+
+Balap arcade retro pseudo-3D. Melaju dari Pantai Fajar, pilih jalur kiri atau kanan di tiap persimpangan,
+dan capai salah satu dari tiga tujuan akhir: Danau Senja, Kota Malam, atau Kawah Bintang. Ada lalu lintas
+angkot, motor, dan truk, plus tiga kaset musik untuk dipilih sebelum balapan.
+
+Main langsung: https://claude.ai/artifact/Hy5qctM16vEx515sWohEFQ
+
+- Setir, gas, rem: panah atau WASD. Turbo: Spasi (terisi saat menyalip mepet). Jeda: P. Suara: M
+- Layar sentuh: tombol di bawah layar, gas otomatis
+- Waktu bertambah di tiap cek poin; skor tertinggi tersimpan di browser masing-masing
